@@ -28,8 +28,12 @@ Don’t document every tiny development decision - but concentrate on the follow
 - astonishing
 
 ## References  
+- https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions
 - https://github.com/adoble/adr-j/tree/master/doc/adr
 - https://adr.github.io/
 - https://docs.arc42.org/tips/9-1/
 - http://wirfs-brock.com/PDFs/PatternsToDevelopAndEvolveArchitecture.pdf
 - https://contextmapper.org/docs/home/
+- https://github.com/TNG/ArchUnit
+- https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=497744
+
