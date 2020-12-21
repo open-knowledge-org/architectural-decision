@@ -31,3 +31,5 @@ Don’t document every tiny development decision - but concentrate on the follow
 - https://github.com/adoble/adr-j/tree/master/doc/adr
 - https://adr.github.io/
 - https://docs.arc42.org/tips/9-1/
+- http://wirfs-brock.com/PDFs/PatternsToDevelopAndEvolveArchitecture.pdf
+- https://contextmapper.org/docs/home/
