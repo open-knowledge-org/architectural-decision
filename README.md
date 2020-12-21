@@ -29,6 +29,6 @@ Don’t document every tiny development decision - but concentrate on the follow
 - astonishing
 
 ## References  
-https://github.com/adoble/adr-j/tree/master/doc/adr
-https://adr.github.io/
-https://docs.arc42.org/tips/9-1/
+- https://github.com/adoble/adr-j/tree/master/doc/adr
+- https://adr.github.io/
+- https://docs.arc42.org/tips/9-1/
