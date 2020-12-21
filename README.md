@@ -2,17 +2,16 @@
 Architetcural Decision Repository
 
 ## Statement
-In the context of **<use case/user story u>**, 
-facing **<concern c>** we decided for **<option o>** 
-to achieve **<quality q>**, 
-accepting **<downside d>**.
+In the context of **[use case/user story u]**, 
+facing **[concern c]** we decided for **[option o]** 
+to achieve **[quality q]**, accepting **[downside d]** .
   
 _or_
 
-In the context of **<use case/user story u>**, 
-facing **<concern c>** we decided for **<option o>** and neglected **<other options>**,
-to achieve **<system qualities/desired consequences>**, accepting **<downside d/undesired consequences>**, 
-because **<additional rationale>**.
+In the context of **[use case/user story u]**, 
+facing **[concern c]** we decided for **[option o]** and neglected **[other options]**,
+to achieve **[system qualities/desired consequences]**, accepting **[downside d/undesired consequences]**, 
+because **[additional rationale]** .
   
 ## Guideline
 Don’t document every tiny development decision - but concentrate on the following:
