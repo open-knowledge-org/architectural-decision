@@ -1,4 +1,4 @@
-# arch-adr
+# Architectural Decision Records
 Architetcural Decision Repository
 
 ## Statement
