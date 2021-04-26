@@ -1,5 +1,5 @@
 # Architectural Decision Records
-Architetcural Decision Repository
+A base repository for Architetcural Decision Recording guidance
 
 ## Statement
 In the context of **[use case/user story u]**, 
